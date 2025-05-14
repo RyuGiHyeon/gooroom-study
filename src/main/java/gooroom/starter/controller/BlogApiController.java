@@ -5,7 +5,6 @@ import gooroom.starter.dto.AddArticleRequest;
 import gooroom.starter.dto.ArticleResponse;
 import gooroom.starter.dto.UpdateArticleRequest;
 import gooroom.starter.service.BlogService;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
